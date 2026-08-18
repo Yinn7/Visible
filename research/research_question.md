@@ -1,15 +1,27 @@
 # Research Question
 
-## Main Question
+## Main Research Question
 
-Can wearable sensor data be used to detect nighttime scratching behaviors?
+Can wearable sensor data be used to detect nighttime scratching behaviors in people with eczema?
 
 ## Sub Questions
 
-1. What movement patterns are associated with scratching?
+### RQ1 — Behavior
 
-2. Which sensors provide useful signals?
+What movement patterns characterize nighttime scratching?
 
-3. How accurately can AI distinguish scratching from normal sleep movement?
+### RQ2 — Differentiation
 
-4. How can detected behaviors support eczema management?
+How can scratching be distinguished from other common nighttime movements?
+
+### RQ3 — Sensors
+
+What types of wearable sensor data are most useful for detecting scratching?
+
+### RQ4 — Detection
+
+How accurately can a computational model detect scratching events?
+
+### RQ5 — Application
+
+How could detected nighttime scratching patterns support eczema self-management?
