@@ -25,3 +25,10 @@ How accurately can a computational model detect scratching events?
 ### RQ5 — Application
 
 How could detected nighttime scratching patterns support eczema self-management?
+
+## Initial Assumptions
+
+- Scratching produces measurable repetitive hand or arm movements.
+- These movements may be captured by wearable motion sensors.
+- Scratching patterns may differ from ordinary sleep movements.
+- Individual scratching patterns may vary significantly.
