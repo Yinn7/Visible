@@ -19,16 +19,25 @@ Build a system that can:
 2. Analyze scratching patterns
 3. Provide personalized feedback for eczema management
 
-## Approach
+## Research Status
 
-Wearable Sensors
-        ↓
-Motion Data Collection
-        ↓
-AI Behavior Detection
-        ↓
-User Feedback
+Completed
+- Research questions and MVP scope defined
+- Two exploratory interviews completed
+- Hardware components acquired
 
-## Current Stage
+In Progress
+- Interview coding and synthesis
+- ESP32-S3 setup
+- MPU6050 integration
 
-Phase 1: Data Collection & Validation
+Next
+- Collect labeled motion data
+- Build CSV-based visualization
+- Iterate on detection and review experience
+
+## What Visible Is Not
+
+Visible is a research prototype.
+It is not a medical device and does not diagnose,
+predict disease severity, or provide treatment recommendations.
