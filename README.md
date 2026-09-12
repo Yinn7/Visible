@@ -4,35 +4,40 @@ AI-powered nighttime scratching monitoring system for eczema management.
 
 ## Overview
 
-Visible is a research prototype that explores how wearable sensing and AI can help monitor nighttime scratching behaviors in people with eczema.
+Wearable nighttime scratching monitoring research prototype for people with eczema.
 
 ## Problem
 
-People with eczema often experience unconscious scratching during sleep.
-However, nighttime scratching is difficult to observe and measure, which makes symptom management challenging.
+Nighttime scratching can happen with limited awareness, making it difficult for people to recall when, how often, and how long they scratched during sleep. This creates an information gap between experiencing nighttime scratching and understanding what actually happened overnight.
 
 ## Goal
 
-Build a system that can:
+Build a research prototype that can:
 
-1. Detect nighttime scratching events
-2. Analyze scratching patterns
-3. Provide personalized feedback for eczema management
+1. Detect potential nighttime scratching events
+2. Summarize scratching timing, frequency, and duration
+3. Help users review nighttime scratching patterns alongside their existing self-care
 
-## Research Status
+## Project Status
 
-Completed
+### Completed
+
 - Research questions and MVP scope defined
 - Two exploratory interviews completed
+- 7-day researcher self-observation completed
+- Interview and self-observation coding completed
+- Research synthesis completed
 - Hardware components acquired
 
-In Progress
-- Interview coding and synthesis
-- ESP32-S3 setup
+### In Progress
+
+- ESP32-S3 setup and validation
 - MPU6050 integration
 
-Next
-- Collect labeled motion data
+### Next
+
+- Collect labeled scratching and non-scratching motion data
+- Explore scratching detection methods
 - Build CSV-based visualization
 - Iterate on detection and review experience
 
